@@ -1,6 +1,4 @@
-<html>
-<head>
-<script>
+
 function playGame(){
   
 //ask player for a number 1-4
@@ -23,10 +21,3 @@ else{
 
 }
 }
-</script>
-</head>
-<body>
-<button onclick= playGame()>Click Me</button>
-</body>
-</html>
-
